@@ -1,4 +1,4 @@
-db
+db/*
 !db/info.txt
-wp
+wp/*
 !wp/info.txt
